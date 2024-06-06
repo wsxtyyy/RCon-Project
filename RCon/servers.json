@@ -1,0 +1,33 @@
+{
+    "replacement": false,
+    "token": "2c2e1c8b9ec9de1ce3966cdf7113913220651aa2d6b21e15311ac30b925f589306d7cae6c5cdf4a996c34",
+    "prefix": "/",
+    "owner_id": 643502001,
+    "perms": [
+        {
+            "VIP": [
+                {
+                    "perm": [
+                        "list"
+                    ]
+                }
+            ],
+            "PREMIUM": [
+                {
+                    "perm": [
+                        "help"
+                    ]
+                }
+            ],
+            "ADMIN": [
+                {
+                    "perm": [
+                        "help",
+                        "ban {0}",
+                        "unban {0}"
+                    ]
+                }
+            ]
+        }
+    ]
+}
